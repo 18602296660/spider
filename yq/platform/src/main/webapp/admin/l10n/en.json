@@ -1,0 +1,42 @@
+{
+
+"header" : {
+  "navbar" : {
+    "UPLOAD" : "Upload",
+    "new" : {
+      "NEW" : "New",
+      "PROJECT" : "Projects",
+      "TASK" : "Task",
+      "USER" : "User",
+      "EMAIL" : "Email"
+    },
+    "NOTIFICATIONS" : "Notifications"
+  }
+},
+"aside" : {
+  "nav" : {
+    "HEADER" : "Navigation",
+    "DASHBOARD" : "Dashboard",
+    "components" : {
+      "COMPONENTS" : "Components",
+      "ui_kits" : {
+        "UI_KITS" : "Links"
+      },
+      "table" : {
+        "TABLE" : "Carousel",
+        "TABLE_STATIC" : "Carousel list",
+        "DATATABLE" : "Carousel form"
+      },
+      "form" : {
+        "FORM" : "Message",
+        "FORM_ELEMENTS" : "Message list",
+        "FORM_VALIDATION" : "Message form",
+        "FORM_WIZARD" : "Message nmm"
+      }
+    }
+  },
+  "MILESTONE" : "Milestone",
+  "RELEASE" : "Release"
+}
+
+}

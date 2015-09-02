@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="topsyApi:war">
+    <output-path>$PROJECT_DIR$/topsyApi/target</output-path>
+    <root id="archive" name="topsyApi.war">
+      <element id="artifact" artifact-name="topsyApi:war exploded" />
+    </root>
+  </artifact>
+</component>

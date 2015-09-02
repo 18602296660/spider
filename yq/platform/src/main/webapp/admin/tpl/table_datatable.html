@@ -1,0 +1,323 @@
+<div class="bg-light lter b-b wrapper-md">
+  <h1 class="m-n font-thin h3">Validation</h1>
+</div>
+<div class="wrapper-md">
+  <div ng-controller="FormDemoCtrl">
+    <div class="row">
+      <div class="col-sm-12">
+        <form name="forma" class="form-horizontal form-validation">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <strong>Type constraints</strong>
+            </div>
+            <div class="panel-body">                    
+              <div class="form-group">
+                <label class="col-sm-2 control-label">Email</label>
+                <div class="col-sm-10">
+                  <input type="email" class="form-control" placeholder="email" ng-model="g.a" required >    
+                </div>
+              </div>
+              <div class="line line-dashed b-b line-lg pull-in"></div>
+              <div class="form-group">
+                <label class="col-sm-2 control-label">Url</label>
+                <div class="col-sm-10">
+                  <input type="url" class="form-control" placeholder="http://" ng-model="g.b" required >
+                </div>
+              </div>
+              <div class="line line-dashed b-b line-lg pull-in"></div>
+              <div class="form-group">
+                <label class="col-sm-2 control-label">Digits</label>
+                <div class="col-sm-10">
+                  <input type="text" class="form-control" placeholder="digits" ng-model="g.c" ng-pattern="/^[0-9]+$/" required >
+                </div>
+              </div>
+              <div class="line line-dashed b-b line-lg pull-in"></div>
+              <div class="form-group">
+                <label class="col-sm-2 control-label">Number</label>
+                <div class="col-sm-10">
+                  <input type="number" class="form-control" placeholder="number" ng-model="g.d" required >
+                </div>
+              </div>
+              <div class="line line-dashed b-b line-lg pull-in"></div>
+              <div class="form-group">
+                <label class="col-sm-2 control-label">Alphanum</label>
+                <div class="col-sm-10">
+                  <input type="text" class="form-control" placeholder="alphanumeric string" ng-model="g.e" ng-pattern="/^[a-zA-Z]+$/" required >
+                </div>
+              </div>
+              <div class="line line-dashed b-b line-lg pull-in"></div>
+              <div class="form-group">
+                <label class="col-sm-2 control-label">Date Iso</label>
+                <div class="col-sm-10">
+                  <input type="text" class="form-control" placeholder="YYYY-MM-DD" ng-model="g.f" ng-pattern="/[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])$/" required >
+                </div>
+              </div>
+              <div class="line line-dashed b-b line-lg pull-in"></div>
+              <div class="form-group">
+                <label class="col-sm-2 control-label">Phone</label>
+                <div class="col-sm-10">
+                  <input type="text" class="form-control" placeholder="(XXX) XXXX XXX" ng-model="g.g" ng-pattern="/\([0-9]{3}\) ([0-9]{3}) ([0-9]{3})$/" required >
+                </div>
+              </div>            
+              <div class="line line-dashed b-b line-lg pull-in"></div>
+              <div class="form-group">
+                <label class="col-sm-2 control-label">Equal To</label>
+                <div class="col-sm-10">
+                  <div class="row">
+                    <div class="col-sm-6"><input type="text" name="foo" class="form-control" ng-model="g.h" required></div>
+                    <div class="col-sm-6"><input type="text" name="confirm_foo" class="form-control" required ng-model="g.i" ui-validate=" '$value==g.h' " ui-validate-watch=" 'g.h' ">
+                    <span ng-show='forma.confirm_foo.$error.validator'>Not match!</span></div>
+                  </div>
+                </div>
+              </div>
+              <div class="line line-dashed b-b line-lg pull-in"></div>
+              <div class="form-group">
+                <label class="col-sm-2 control-label">Black-list</label>
+                <div class="col-sm-10">
+                  <input type="email" name="email" class="form-control" placeholder="input 'bad@domain.com'" ng-model="g.j" ui-validate="{blacklist : 'notBlackListed($value)' }" required>
+                  <span ng-show='forma.email.$error.blacklist'>This e-mail is black-listed!</span>
+                </div>
+              </div>
+              <div class="line line-dashed b-b line-lg pull-in"></div>
+              <div class="form-group">
+          <label class="col-sm-3 control-label">CSS3 Checkboxes & radios</label>
+          <div class="col-sm-9">
+            <div class="checkbox">
+              <label class="i-checks">
+                <input type="checkbox" value="">
+                <i></i>
+                Option one
+              </label>
+            </div>
+            <div class="checkbox">
+              <label class="i-checks">
+                <input type="checkbox" checked value="">
+                <i></i>
+                Option two checked
+              </label>
+            </div>
+            <div class="checkbox">
+              <label class="i-checks">
+                <input type="checkbox" checked disabled value="">
+                <i></i>
+                Option three checked and disabled
+              </label>
+            </div>
+            <div class="checkbox">
+              <label class="i-checks">
+                <input type="checkbox" disabled value="">
+                <i></i>
+                Option four disabled
+              </label>
+            </div>
+            <div class="radio">
+              <label class="i-checks">
+                <input type="radio" name="a" value="option1">
+                <i></i>
+                Option one
+              </label>
+            </div>
+            <div class="radio">
+              <label class="i-checks">
+                <input type="radio" name="a" value="option2" checked>
+                <i></i>
+                Option two checked
+              </label>
+            </div>
+            <div class="radio">
+              <label class="i-checks">
+                <input type="radio" value="option2" checked disabled>
+                <i></i>
+                Option three checked and disabled
+              </label>
+            </div>
+            <div class="radio">
+              <label class="i-checks">
+                <input type="radio" name="a" disabled>
+                <i></i>
+                Option four disabled
+              </label>
+            </div>
+          </div>
+        </div>
+        <div class="line line-dashed b-b line-lg pull-in"></div>
+        <div class="form-group">
+          <label class="col-sm-2 control-label">Inline checkboxes</label>
+          <div class="col-sm-10">
+            <label class="checkbox-inline i-checks">
+              <input type="checkbox" value="option1"><i></i> a
+            </label>
+            <label class="checkbox-inline i-checks">
+              <input type="checkbox" value="option2"><i></i> b
+            </label>
+            <label class="checkbox-inline i-checks">
+              <input type="checkbox" value="option3"><i></i> c
+            </label>
+          </div>
+        </div>
+
+        <div class="line line-dashed b-b line-lg pull-in"></div>
+        <div class="form-group">
+          <label class="col-sm-2 control-label">Switch</label>
+          <div class="col-sm-10">
+            <label class="i-switch m-t-xs m-r">
+              <input type="checkbox" checked>
+              <i></i>
+            </label>
+            <label class="i-switch bg-info m-t-xs m-r">
+              <input type="checkbox" checked>
+              <i></i>
+            </label>
+            <label class="i-switch bg-primary m-t-xs m-r">
+              <input type="checkbox" checked>
+              <i></i>
+            </label>
+            <label class="i-switch bg-danger m-t-xs m-r">
+              <input type="checkbox" checked>
+              <i></i>
+            </label>
+          </div>
+        </div>
+
+        <div class="line line-dashed b-b line-lg pull-in"></div>
+        <div class="form-group">
+          <label class="col-sm-2 control-label">Radio Switch</label>
+          <div class="col-sm-10">
+            <label class="i-switch bg-primary m-t-xs m-r">
+              <input type="radio" name='switch' checked>
+              <i></i>
+            </label>
+            <label class="i-switch bg-warning m-t-xs m-r">
+              <input type="radio" name='switch'>
+              <i></i>
+            </label>
+          </div>
+        </div>
+
+        <div class="line line-dashed b-b line-lg pull-in"></div>
+        <div class="form-group">
+          <label class="col-sm-2 control-label">Chosen multiple</label>
+          <div class="col-sm-10">
+            <select ui-jq="chosen" multiple class="w-md">
+              <option value="AK">Alaska</option>
+              <option value="HI">Hawaii</option>
+              <option value="CA">California</option>
+              <option value="NV">Nevada</option>
+              <option value="OR">Oregon</option>
+              <option value="WA">Washington</option>
+            </select>
+          </div>
+        </div>
+
+         <div class="line line-dashed b-b line-lg pull-in"></div>
+        <div class="form-group">
+          <label class="col-sm-2 control-label">Datepicker</label>
+          <div class="col-sm-10" ng-controller="DatepickerDemoCtrl">
+            <div class="input-group w-md">
+              <input type="text" class="form-control" datepicker-popup="{{format}}" ng-model="dt" is-open="opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" />
+              <span class="input-group-btn">
+                <button type="button" class="btn btn-default" ng-click="open($event)"><i class="glyphicon glyphicon-calendar"></i></button>
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <div class="line line-dashed b-b line-lg pull-in"></div>
+        <div class="form-group">
+          <label class="col-sm-2 control-label">File input</label>
+          <div class="col-sm-10">
+            <input ui-jq="filestyle" type="file" data-icon="false" data-classButton="btn btn-default" data-classInput="form-control inline v-middle input-s">
+          </div>
+        </div>
+        <div class="line line-dashed b-b line-lg pull-in"></div>
+        <div class="form-group">
+          <label class="col-sm-2 control-label">Wysiwyg</label>
+          <div class="col-sm-10">
+            <div class="btn-toolbar m-b-sm btn-editor" data-role="editor-toolbar" data-target="#editor">
+              <div class="btn-group dropdown">
+                <a class="btn btn-default dropdown-toggle" data-toggle="dropdown" tooltip="Font"><i class="fa fa-font"></i><b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href dropdown-toggle data-edit="fontName Serif" style="font-family:'Serif'">Serif</a></li> 
+                  <li><a href dropdown-toggle data-edit="fontName Sans" style="font-family:'Sans'">Sans</a></li>
+                  <li><a href dropdown-toggle data-edit="fontName Arial" style="font-family:'Arial'">Arial</a></li></ul>
+              </div>
+              <div class="btn-group dropdown">
+                <a class="btn btn-default dropdown-toggle" data-toggle="dropdown" tooltip="Font Size"><i class="fa fa-text-height"></i>&nbsp;<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href dropdown-toggle data-edit="fontSize 5" style="font-size:24px">Huge</a></li>
+                  <li><a href dropdown-toggle data-edit="fontSize 3" style="font-size:18px">Normal</a></li>
+                  <li><a href dropdown-toggle data-edit="fontSize 1" style="font-size:14px">Small</a></li>
+                </ul>
+              </div>
+              <div class="btn-group">
+                <a class="btn btn-default" data-edit="bold" tooltip="Bold (Ctrl/Cmd+B)"><i class="fa fa-bold"></i></a>
+                <a class="btn btn-default" data-edit="italic" tooltip="Italic (Ctrl/Cmd+I)"><i class="fa fa-italic"></i></a>
+                <a class="btn btn-default" data-edit="strikethrough" tooltip="Strikethrough"><i class="fa fa-strikethrough"></i></a>
+                <a class="btn btn-default" data-edit="underline" tooltip="Underline (Ctrl/Cmd+U)"><i class="fa fa-underline"></i></a>
+              </div>
+              <div class="btn-group">
+                <a class="btn btn-default" data-edit="insertunorderedlist" tooltip="Bullet list"><i class="fa fa-list-ul"></i></a>
+                <a class="btn btn-default" data-edit="insertorderedlist" tooltip="Number list"><i class="fa fa-list-ol"></i></a>
+                <a class="btn btn-default" data-edit="outdent" tooltip="Reduce indent (Shift+Tab)"><i class="fa fa-dedent"></i></a>
+                <a class="btn btn-default" data-edit="indent" tooltip="Indent (Tab)"><i class="fa fa-indent"></i></a>
+              </div>
+              <div class="btn-group">
+                <a class="btn btn-default" data-edit="justifyleft" tooltip="Align Left (Ctrl/Cmd+L)"><i class="fa fa-align-left"></i></a>
+                <a class="btn btn-default" data-edit="justifycenter" tooltip="Center (Ctrl/Cmd+E)"><i class="fa fa-align-center"></i></a>
+                <a class="btn btn-default" data-edit="justifyright" tooltip="Align Right (Ctrl/Cmd+R)"><i class="fa fa-align-right"></i></a>
+                <a class="btn btn-default" data-edit="justifyfull" tooltip="Justify (Ctrl/Cmd+J)"><i class="fa fa-align-justify"></i></a>
+              </div>
+              <div class="btn-group dropdown">
+                <a class="btn btn-default dropdown-toggle" data-toggle="dropdown" tooltip="Hyperlink"><i class="fa fa-link"></i></a>
+                <div class="dropdown-menu">
+                  <div class="input-group m-l-xs m-r-xs">
+                    <input class="form-control input-sm" onclick="return false;" placeholder="URL" type="text" data-edit="createLink"/>
+                    <div class="input-group-btn">
+                      <button class="btn btn-sm btn-default" type="button">Add</button>
+                    </div>
+                  </div>
+                </div>
+                <a class="btn btn-default" data-edit="unlink" tooltip="Remove Hyperlink"><i class="fa fa-cut"></i></a>
+              </div>
+              
+              <div class="btn-group">
+                <a class="btn btn-default" tooltip="Insert picture (or just drag & drop)" id="pictureBtn"><i class="fa fa-picture-o"></i></a>
+                <input type="file" data-edit="insertImage" style="position:absolute; opacity:0; width:41px; height:34px" />
+              </div>
+              <div class="btn-group">
+                <a class="btn btn-default" data-edit="undo" tooltip="Undo (Ctrl/Cmd+Z)"><i class="fa fa-undo"></i></a>
+                <a class="btn btn-default" data-edit="redo" tooltip="Redo (Ctrl/Cmd+Y)"><i class="fa fa-repeat"></i></a>
+              </div>
+            </div>
+            <div ui-jq="wysiwyg" class="form-control" style="overflow:scroll;height:200px;max-height:200px">
+              Go ahead&hellip;
+            </div>
+          </div>
+        </div>
+        
+        <div class="line line-dashed b-b line-lg pull-in"></div>
+        <div class="form-group">
+          <div class="col-sm-4 col-sm-offset-2">
+            <button type="submit" class="btn btn-default">Cancel</button>
+            <button type="submit" class="btn btn-primary">Save changes</button>
+          </div>
+        </div>
+
+
+        <div class="line line-dashed b-b line-lg pull-in"></div>
+              <div class="form-group">
+                  <label class="col-sm-2 control-label">Message</label>
+                  <div class="col-sm-10">
+                  <textarea class="form-control" rows="6" placeholder="Type your message"></textarea>
+                  </div>
+              </div>
+            </div>
+            <footer class="panel-footer text-right bg-light lter">
+              <button type="submit" class="btn btn-success">Submit</button>
+            </footer>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

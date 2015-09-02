@@ -1,0 +1,14 @@
+{
+    "name": "ajyq",
+    "main": "index.html",
+    "version": "0.1.0",
+    "window": {
+        "frame": true ,
+        "toolbar": false,
+        "fullscreen": true,
+        "resizable": false,
+        "position": "center",
+        "width": 1280 ,
+        "height": 900
+    }
+}

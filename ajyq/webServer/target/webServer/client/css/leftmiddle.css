@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2015-03-18 13:24:29
+ * @version $Id$
+ */
+@import url(http://fonts.googleapis.com/css?family=Lato:200,300);
+
+.amcharts-graph-g1 .amcharts-graph-fill {
+    filter: url(#blur);
+}
+
+.amcharts-graph-g2 .amcharts-graph-fill {
+    filter: url(#blur);
+}
+
+.amcharts-cursor-fill {
+    filter: url(#shadow);
+}

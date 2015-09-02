@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>舆情</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<link href="client/css/bootstrap.min.css" rel="stylesheet">
+<link href="client/css/search.css" rel="stylesheet">
+</head>
+<body>
+    <div class="header"></div>
+    <div class="sea mt15">
+	    <div class="container">
+	    	<div class="row">
+	    		<div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+	    			<img src="client/img/logo.png" alt="" class="img-responsive">
+	    		</div>
+	    		<form class="form-horizontal" action="/search" method="post">
+	    		<div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 mt15 sea_right">
+	    			<div class="col-xs-3 col-sm-6 col-md-6 col-lg-6">
+					    <div class="input-group">
+					      <input type="text" name="keyword" class="form-control" placeholder="Search for...">
+					      <span class="input-group-btn">
+					        <button class="btn btn-default" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+					      </span>
+					    </div><!-- /input-group -->
+					  </div><!-- /.col-lg-6 -->
+					  <div class="btn-group">
+	  
+						</div>
+		 
+	    		</div>
+	    		</form>
+	    	</div>
+	    </div>
+	</div>
+    <!-- content -->
+	<div class="listmian mt15">
+		<div class="container">
+			<div class="row">
+			    <div role="tabpanel">
+			    	<div class="col-xs-12 col-sm-2 col-md-2">
+					  	<a href="#ls" aria-controls="ls" role="tab" data-toggle="tab" class="list-group-item active">
+					    相关信息</a>
+					  	<a href="#1hour" aria-controls="1hour" role="tab" data-toggle="tab" class="list-group-item">过去1小时<span class="badge"><#if count??>${count.hour}<#else>0</#if></span></a>
+					  	<a href="#1day" aria-controls="1day" role="tab" data-toggle="tab" class="list-group-item">过去1天<span class="badge"><#if count??>${count.day}<#else>0</#if></span></a>
+					  	<a href="#6days" aria-controls="6days" role="tab" data-toggle="tab" class="list-group-item">过去1周<span class="badge"><#if count??>${count.week}<#else>0</#if></span></a>
+					  	<a href="#7days" aria-controls="7days" role="tab" data-toggle="tab" class="list-group-item">过去1月<span class="badge"><#if count??>${count.month}<#else>0</#if></span></a>
+					  	<a href="#30days" aria-controls="30days" role="tab" data-toggle="tab" class="list-group-item">全部<span class="badge"><#if count??>${count.total}<#else>0</#if></span></a>	
+					</div>
+				  	<!-- Tab panes -->
+				  	<div class="col-xs-12 col-sm-10 col-md-10 tab-content">
+				  	
+					    <div role="tabpanel" class="tab-pane active" id="ls">
+					    	<#if error??>${error}</#if>
+					    	<#if infos??>
+					    	<#list infos as info>
+					    	<div class="row mb15">
+							  <div class="col-xs-1 col-sm-1 col-md-1 list_left pull-left">
+							    <a href="#">
+							      <img src="<#if info.img??>${info.img}</#if>" alt="...">
+							    </a>
+							  </div>
+							  
+							  <div class="col-xs-11 col-sm-11 col-md-11 list_right pull-left">
+							    <h5><strong><a href="${info.url}"><#if info.title??><#if info.title?length gt 60>${info.title?substring(0,60)}...<#else>${info.title}</#if></#if></a></strong></h5>
+							    <p><span><#if info.author??>${info.author}</#if></span><span><#if info.stime??>${info.stime}</#if></span></p>
+							    <a href="${info.url}" target="_blank"><#if info.url??><#if info.url?length gt 60>${info.url?substring(0,60)}...<#else>${info.url}</#if></#if></a>
+							  </div>
+							</div>
+							  
+							</#list>
+							</#if>
+						</div>
+						
+					    <div role="tabpanel" class="tab-pane" id="1hour">
+					    	
+					    </div>
+					    <div role="tabpanel" class="tab-pane" id="1day">
+					    	
+					    </div>
+					    <div role="tabpanel" class="tab-pane" id="6days">
+					    	
+					    </div>
+					    <div role="tabpanel" class="tab-pane" id="7days">
+					    	
+					    </div>
+					    <div role="tabpanel" class="tab-pane" id="30days">					    								
+					    </div>
+
+				  	</div>
+				  	
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<script src="js/jquery-1.11.1.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+</body>
+</html>

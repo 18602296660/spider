@@ -1,0 +1,46 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="spider (1):war exploded">
+    <output-path>$PROJECT_DIR$/spider/branches/spider_20150527_lx/target/spider</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="spider (1)" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.googlecode.json-simple:json-simple:1.1.1" />
+          <element id="library" level="project" name="Maven: junit:junit:4.10" />
+          <element id="library" level="project" name="Maven: com.jfinal:jfinal:1.9" />
+          <element id="library" level="project" name="Maven: com.jfinal:jetty-server:8.1.8" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-xml:8.1.8.v20121106" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-util:8.1.8.v20121106" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-servlet:8.1.8.v20121106" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-security:8.1.8.v20121106" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-server:8.1.8.v20121106" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty.orbit:javax.servlet:3.0.0.v201112011016" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-continuation:8.1.8.v20121106" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-http:8.1.8.v20121106" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-io:8.1.8.v20121106" />
+          <element id="library" level="project" name="Maven: org.freemarker:freemarker:2.3.20" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.31" />
+          <element id="library" level="project" name="Maven: net.sf.ehcache:ehcache-core:2.6.6" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.9" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.7.9" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.1.37" />
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.0.4" />
+          <element id="library" level="project" name="Maven: com.jfinal:jfinal-ext:3.1.2" />
+          <element id="library" level="project" name="Maven: org.quartz-scheduler:quartz:1.8.5" />
+          <element id="library" level="project" name="Maven: javax.transaction:jta:1.1" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:18.0" />
+          <element id="library" level="project" name="Maven: com.github.abel533:ECharts:2.2.0.2" />
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.3" />
+          <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/spider/branches/spider_20150527_lx/target/spider/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="spider (1)/web/Web" />
+    </root>
+  </artifact>
+</component>

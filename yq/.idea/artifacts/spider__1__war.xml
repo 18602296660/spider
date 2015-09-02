@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spider (1):war">
+    <output-path>$PROJECT_DIR$/spider/branches/spider_20150527_lx/target</output-path>
+    <root id="archive" name="spider.war">
+      <element id="artifact" artifact-name="spider (1):war exploded" />
+    </root>
+  </artifact>
+</component>

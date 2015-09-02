@@ -1,0 +1,7 @@
+#surefire
+#Tue Jun 23 09:43:45 CST 2015
+user.dir=/Users/apple/IdeaProjects/yq/spider
+maven.repo.local=/Users/apple/maven/repository
+idea.version=14.1.4
+localRepository=/Users/apple/maven/repository
+basedir=/Users/apple/IdeaProjects/yq/spider

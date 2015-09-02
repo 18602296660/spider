@@ -1,0 +1,43 @@
+
+{
+
+"header" : {
+  "navbar" : {
+    "UPLOAD" : "上传",
+    "new" : {
+      "NEW" : "New",
+      "PROJECT" : "Projects",
+      "TASK" : "Task",
+      "USER" : "User",
+      "EMAIL" : "Email"
+    },
+    "NOTIFICATIONS" : "Notifications"
+  }
+},
+"aside" : {
+  "nav" : {
+    "HEADER" : "导航",
+    "DASHBOARD" : "控制台",
+    "components" : {
+      "COMPONENTS" : "组件",
+      "ui_kits" : {
+        "UI_KITS" : "友情链接"
+      },
+      "table" : {
+        "TABLE" : "轮播管理",
+        "TABLE_STATIC" : "轮播列表",
+        "DATATABLE" : "修改轮播"
+      },
+      "form" : {
+        "FORM" : "信息管理",
+        "FORM_ELEMENTS" : "所有信息",
+        "FORM_VALIDATION" : "新建信息",
+        "FORM_WIZARD" : "信息分类"
+      }
+    }
+  },
+  "MILESTONE" : "Milestone",
+  "RELEASE" : "Release"
+}
+
+}

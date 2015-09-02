@@ -1,0 +1,2003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="7a4acbd2-481b-42fa-a79f-c004165926e5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts/Simple-Line-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts/Simple-Line-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts/Simple-Line-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/a0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/a1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/a10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/a2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/a3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/a4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/a5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/a6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/a7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/a8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/a9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/angular" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/b0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/b1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/b2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/b3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/b4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/b5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/blocks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/c0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/c1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/c2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/c3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/c4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/c5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/app/calendar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/charts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/chosen/chosen-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/chosen/chosen-sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/chosen" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/commons" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/datatables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/charts/easypiechart" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/file" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/charts/flot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/footable/fonts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/footable/fonts/footable.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/footable/fonts/footable.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/footable/fonts/footable.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/footable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/fullcalendar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/jvectormap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/l10n" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/libs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/app/mail" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/app/map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/modules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/nestable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/img/p0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/select2/select2-spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/select2/select2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/select2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/select2/select2x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/slider" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/slimscroll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/sortable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts/sourcesanspro/sourcesanspro-bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts/sourcesanspro/sourcesanspro-light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts/sourcesanspro/sourcesanspro.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts/sourcesanspro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/charts/sparkline" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/spinner" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/wysiwyg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/commons/HttpClientUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/commons/SSLClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts/Simple-Line-Icons.dev.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts/Simple-Line-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/commons/TestMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/angular/angular-animate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/angular/angular-cookies.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/angular/angular-translate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/angular/angular-ui-router.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/angular/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/app.arrow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/app.butterbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/app.buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/app.colors.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/app.components.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/app.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/app.item.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/app.layout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/app.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/app.mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/app.nav.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/app.nav.offscreen.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/app.ng.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/app.plugin.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/app.reset.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/app.utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/app.variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/app.widgets.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/app_dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/blocks/aside.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/file/bootstrap-filestyle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/slider/bootstrap-slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/wysiwyg/bootstrap-wysiwyg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/app/calendar/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/chosen/chosen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/chosen/chosen.jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/controllers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/datatables/dataTables.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/datatables/dataTables.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/datatables/datatable.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/directives.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/l10n/en.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/filters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/font.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/footable/footable.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/footable/footable.core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/footable/fonts/footable.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/form_elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/form_validation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/fullcalendar/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/fullcalendar/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/blocks/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/jvectormap/jquery-jvectormap-us-aea-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/jvectormap/jquery-jvectormap-world-mill-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/jvectormap/jquery-jvectormap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/jvectormap/jquery-jvectormap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/jquery-ui-1.10.3.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/spinner/jquery.bootstrap-touchspin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/spinner/jquery.bootstrap-touchspin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/datatables/jquery.dataTables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/charts/easypiechart/jquery.easy-pie-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/charts/flot/jquery.flot.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/charts/flot/jquery.flot.orderBars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/charts/flot/jquery.flot.pie.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/charts/flot/jquery.flot.resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/charts/flot/jquery.flot.spline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/charts/flot/jquery.flot.tooltip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/wysiwyg/jquery.hotkeys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/nestable/jquery.nestable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/slimscroll/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/sortable/jquery.sortable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/charts/sparkline/jquery.sparkline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/jquery.ui.touch-punch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/less.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/lessc.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/app/map/load-google-maps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/app/mail/mail-service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/app/mail/mail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/app/mail/mails.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/app/map/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/libs/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/blocks/nav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/nestable/nestable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/angular/ngStorage.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/blocks/page_footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/page_signin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/libs/screenfull.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/select2/select2-bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/select2/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/select2/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/services.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/blocks/settings.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/css/simple-line-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/jquery/slider/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/table_datatable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/table_static.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/angular/ui-bootstrap-tpls.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/modules/ui-calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/angular/ui-jq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/angular/ui-load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/modules/ui-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/modules/ui-select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/js/angular/ui-validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/l10n/zh.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/controllers/AdminController.java" afterPath="$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/controllers/AdminController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/interceptors/AdminInterceptor.java" afterPath="$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/interceptors/AdminInterceptor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Information.java" afterPath="$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Information.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/jobs/SearchJob.java" afterPath="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/jobs/SearchJob.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platform/src/main/webapp/admin/index.html" afterPath="$PROJECT_DIR$/platform/src/main/webapp/admin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platform/src/main/resources/init.properties" afterPath="$PROJECT_DIR$/platform/src/main/resources/init.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platform/platform.iml" afterPath="$PROJECT_DIR$/platform/platform.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platform/pom.xml" afterPath="$PROJECT_DIR$/platform/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider/pom.xml" afterPath="$PROJECT_DIR$/spider/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider/spider.iml" afterPath="$PROJECT_DIR$/spider/spider.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/spider/src/main/webapp/WEB-INF/web.xml" />
+    </list>
+    <ignored path="yq.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/aa/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/spider/target/" />
+    <ignored path="$PROJECT_DIR$/platform/target/" />
+    <ignored path="$PROJECT_DIR$/platform/branches/platform_20150527_lx/target/" />
+    <ignored path="$PROJECT_DIR$/platform/trunk/target/" />
+    <ignored path="$PROJECT_DIR$/spider/trunk/target/" />
+    <ignored path="$PROJECT_DIR$/spider/branches/spider_20150527_lx/target/" />
+    <ignored path="$PROJECT_DIR$/trunk/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="$PROJECT_DIR$/../ajyq" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="yq" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platform/src/main/webapp/admin/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="295" column="42" selection-start-line="295" selection-start-column="42" selection-end-line="295" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platform/src/main/webapp/admin/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platform/src/main/webapp/admin/js/controllers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="497" column="49" selection-start-line="497" selection-start-column="49" selection-end-line="497" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page_signin.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/page_signin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="53" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/controllers/AdminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8501441">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platform/src/main/resources/init.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platform/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/app.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Html5" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spider/branches/spider_20150527_lx/src/main/java/com/hateck/spider/jobs/SearchJob.java" />
+        <option value="$PROJECT_DIR$/spider/trunk/src/main/java/com/hateck/spider/jobs/JobA.java" />
+        <option value="$PROJECT_DIR$/spider/trunk/src/main/java/com/hateck/spider/jobs/JobB.java" />
+        <option value="$PROJECT_DIR$/spider/trunk/src/main/java/com/hateck/spider/jobs/SearchJob.java" />
+        <option value="$PROJECT_DIR$/platform/branches/platform_20150527_lx/src/main/resources/init.properties" />
+        <option value="$PROJECT_DIR$/platform/branches/platform_20150527_lx/src/main/java/com/hateck/platform/models/Customer.java" />
+        <option value="$PROJECT_DIR$/platform/branches/platform_20150527_lx/src/main/java/com/hateck/platform/config/Config.java" />
+        <option value="$PROJECT_DIR$/platform/branches/platform_20150527_lx/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/platform/trunk/src/main/webapp/test.jsp" />
+        <option value="$PROJECT_DIR$/platform/trunk/src/main/java/com/hateck/platform/controllers/IndexController.java" />
+        <option value="$PROJECT_DIR$/trunk/src/main/java/com/hateck/platform/models/Customer.java" />
+        <option value="$PROJECT_DIR$/trunk/src/main/webapp/admin/index.jsp" />
+        <option value="$PROJECT_DIR$/trunk/pom.xml" />
+        <option value="$PROJECT_DIR$/trunk/src/main/webapp/admin/index.html" />
+        <option value="$PROJECT_DIR$/trunk/src/main/java/com/hateck/platform/controllers/AdminController.java" />
+        <option value="$PROJECT_DIR$/trunk/src/main/java/com/hateck/platform/config/Config.java" />
+        <option value="$PROJECT_DIR$/trunk/src/main/resources/init.properties" />
+        <option value="$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Admin.java" />
+        <option value="$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Api.java" />
+        <option value="$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Areas.java" />
+        <option value="$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Keyword.java" />
+        <option value="$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Province.java" />
+        <option value="$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Server.java" />
+        <option value="$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Week.java" />
+        <option value="$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/controllers/IndexController.java" />
+        <option value="$PROJECT_DIR$/spider/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/spider/src/main/resources/init.properties" />
+        <option value="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/topsy/beans/info.java" />
+        <option value="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/models/Api.java" />
+        <option value="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/models/Customer.java" />
+        <option value="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/config/Config.java" />
+        <option value="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/jobs/JobA.java" />
+        <option value="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/jobs/JobB.java" />
+        <option value="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/jobs/JobC.java" />
+        <option value="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/commons/MyX509TrustManager.java" />
+        <option value="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/jobs/SearchJob.java" />
+        <option value="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/commons/TrustSSL.java" />
+        <option value="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/commons/HttpClientUtil.java" />
+        <option value="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/commons/TestMain.java" />
+        <option value="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/commons/SSLClient.java" />
+        <option value="$PROJECT_DIR$/spider/pom.xml" />
+        <option value="$PROJECT_DIR$/spider/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Information.java" />
+        <option value="$PROJECT_DIR$/platform/src/main/webapp/admin/index.html" />
+        <option value="$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/interceptors/AdminInterceptor.java" />
+        <option value="$PROJECT_DIR$/platform/src/main/webapp/admin/js/app.js" />
+        <option value="$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/page_signin.html" />
+        <option value="$PROJECT_DIR$/platform/src/main/webapp/admin/js/controllers.js" />
+        <option value="$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/controllers/AdminController.java" />
+        <option value="$PROJECT_DIR$/platform/src/main/resources/init.properties" />
+        <option value="$PROJECT_DIR$/platform/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/maven/repository" />
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.3.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="spider Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="spider Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="spider Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="jetty" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="platform Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="platform Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="platform Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="jrebel" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="platform Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="jetty" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType ProjectPane="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platform" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platform" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platform" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platform" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platform" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platform" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platform" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platform" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platform" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.PluginsConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/trunk/pom.xml" />
+    <property name="FullScreen" value="false" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth0" value="70" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth1" value="72" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth2" value="75" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth3" value="70" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth4" value="114" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth5" value="807" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder5" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth0" value="72" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth1" value="74" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth2" value="77" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth3" value="73" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth4" value="73" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth5" value="839" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder5" value="5" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/platform/src/main/webapp/admin" />
+      <recent name="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/jobs" />
+      <recent name="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/models" />
+      <recent name="$PROJECT_DIR$/spider/src/main/java/com/hateck/spider" />
+      <recent name="$PROJECT_DIR$/spider/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hateck.spider.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.platform [jetty:run]">
+    <configuration default="false" name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.hateck.spider.commons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.hateck.spider.commons.TestMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="spider" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="platform [jetty:start]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:start" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/platform" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="platform [jetty:run-war]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run-war" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/platform" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="spider [jetty:run-war]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run-war" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/spider" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="platform [jetty:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/platform" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.TestMain" />
+      <item index="1" class="java.lang.String" itemvalue="Maven.platform [jetty:start]" />
+      <item index="2" class="java.lang.String" itemvalue="Maven.platform [jetty:run-war]" />
+      <item index="3" class="java.lang.String" itemvalue="Maven.spider [jetty:run-war]" />
+      <item index="4" class="java.lang.String" itemvalue="Maven.platform [jetty:run]" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Maven.platform [jetty:run]" />
+        <item index="1" class="java.lang.String" itemvalue="Maven.platform [jetty:start]" />
+        <item index="2" class="java.lang.String" itemvalue="Maven.platform [jetty:run-war]" />
+        <item index="3" class="java.lang.String" itemvalue="Maven.spider [jetty:run-war]" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" myAutoUpdateAfterCommit="true" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="UPDATE_DEPTH" value="infinity" />
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/platform" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/platform" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/spider" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/spider" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/platform" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/spider" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a4acbd2-481b-42fa-a79f-c004165926e5" name="Default" comment="" />
+      <created>1432693800924</created>
+      <option name="number" value="Default" />
+      <updated>1432693800924</updated>
+      <workItem from="1432693802993" duration="4571000" />
+      <workItem from="1432699223539" duration="1333000" />
+      <workItem from="1432706004289" duration="241000" />
+      <workItem from="1432706332197" duration="3662000" />
+      <workItem from="1432714708525" duration="150000" />
+      <workItem from="1432714880748" duration="2286000" />
+      <workItem from="1432717176245" duration="207000" />
+      <workItem from="1432717441024" duration="691000" />
+      <workItem from="1432718172979" duration="11000" />
+      <workItem from="1432718186292" duration="1259000" />
+      <workItem from="1432785440564" duration="4229000" />
+      <workItem from="1432795924892" duration="1873000" />
+      <workItem from="1432798122010" duration="4507000" />
+      <workItem from="1432802649710" duration="1394000" />
+      <workItem from="1432804055011" duration="1406000" />
+      <workItem from="1432862191820" duration="3353000" />
+      <workItem from="1433207448691" duration="3655000" />
+      <workItem from="1433290752896" duration="5714000" />
+      <workItem from="1433327668930" duration="1034000" />
+      <workItem from="1433384863305" duration="4700000" />
+      <workItem from="1433466384975" duration="669000" />
+      <workItem from="1433916859460" duration="360000" />
+      <workItem from="1433923989603" duration="610000" />
+      <workItem from="1433925413259" duration="6776000" />
+      <workItem from="1433999573038" duration="3772000" />
+      <workItem from="1434072385101" duration="598000" />
+      <workItem from="1434507160466" duration="621000" />
+      <workItem from="1434507798505" duration="4873000" />
+      <workItem from="1434591146935" duration="907000" />
+      <workItem from="1434677498841" duration="4654000" />
+      <workItem from="1435021070832" duration="195000" />
+      <workItem from="1435021295816" duration="155000" />
+      <workItem from="1435021466025" duration="1666000" />
+      <workItem from="1435023954805" duration="706000" />
+      <workItem from="1435024824692" duration="5755000" />
+      <workItem from="1435043304572" duration="4889000" />
+      <workItem from="1435108810832" duration="1197000" />
+      <workItem from="1435197728152" duration="598000" />
+      <workItem from="1435286151511" duration="1196000" />
+      <workItem from="1435658642059" duration="71000" />
+      <workItem from="1435916835976" duration="11000" />
+      <workItem from="1436241705640" duration="224000" />
+      <workItem from="1436241957379" duration="118000" />
+      <workItem from="1436242133532" duration="221000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1432699702034</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1432699702034</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1432699739039</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1432699739039</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1432706624027</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1432706624027</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1432706746036</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1432706746036</updated>
+    </task>
+    <task id="LOCAL-00005">
+      <created>1432715380039</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1432715380039</updated>
+    </task>
+    <task id="LOCAL-00006">
+      <created>1432716064034</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1432716064034</updated>
+    </task>
+    <task id="LOCAL-00007">
+      <created>1432718536033</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1432718536033</updated>
+    </task>
+    <task id="LOCAL-00008">
+      <created>1432787348038</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1432787348038</updated>
+    </task>
+    <task id="LOCAL-00009">
+      <created>1432802563028</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1432802563028</updated>
+    </task>
+    <task id="LOCAL-00010">
+      <created>1432803185028</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1432803185028</updated>
+    </task>
+    <task id="LOCAL-00011">
+      <created>1432863607035</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1432863607035</updated>
+    </task>
+    <task id="LOCAL-00012">
+      <created>1432863771030</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1432863771030</updated>
+    </task>
+    <task id="LOCAL-00013">
+      <created>1432863879034</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1432863879034</updated>
+    </task>
+    <task id="LOCAL-00014">
+      <created>1432864299030</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1432864299030</updated>
+    </task>
+    <task id="LOCAL-00015">
+      <created>1432864410027</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1432864410027</updated>
+    </task>
+    <task id="LOCAL-00016">
+      <created>1432864464028</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1432864464028</updated>
+    </task>
+    <task id="LOCAL-00017">
+      <created>1432865052027</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1432865052027</updated>
+    </task>
+    <task id="LOCAL-00018">
+      <created>1433387704036</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1433387704036</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="87118000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="688" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="JSON Formatter" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280757" sideWeight="0.49676898" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32357723" sideWeight="0.5145396" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32956383" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44051448" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.48546043" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3971061" sideWeight="0.49030694" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32753164" sideWeight="0.49676898" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22051696" sideWeight="0.42604503" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22051696" sideWeight="0.5308057" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22051696" sideWeight="0.573955" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22051696" sideWeight="0.5308057" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6559486" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32753164" sideWeight="0.49030694" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Properties" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.49353796" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3215434" sideWeight="0.48707592" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3301282" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="JSON Formatter" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32753164" sideWeight="0.49030694" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32357723" sideWeight="0.5145396" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48455286" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Properties" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.49353796" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6569106" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3219512" sideWeight="0.48707592" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280757" sideWeight="0.49676898" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.48546043" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.398374" sideWeight="0.49030694" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32753164" sideWeight="0.49676898" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3301282" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23828755" sideWeight="0.44309926" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22051696" sideWeight="0.5308057" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23828755" sideWeight="0.55690074" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22051696" sideWeight="0.5308057" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="CHANGE_BROWSER_SETTINGS">
+      <map>
+        <entry key="svn">
+          <value>
+            <ChangeBrowserSettings />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven/repository/com/jfinal/jfinal/1.9/jfinal-1.9-sources.jar!/com/jfinal/render/Render.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7209945">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven/repository/com/jfinal/jfinal/1.9/jfinal-1.9-sources.jar!/com/jfinal/render/JspRender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16574585">
+          <caret line="54" column="15" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven/repository/com/jfinal/jfinal/1.9/jfinal-1.9-sources.jar!/com/jfinal/render/RenderFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39779004">
+          <caret line="149" column="24" selection-start-line="148" selection-start-column="44" selection-end-line="150" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2044293">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Areas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25553662">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Keyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25553662">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Province.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25553662">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25553662">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Week.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25553662">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/controllers/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17887564">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/models/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38961038">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/models/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.077922076">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/src/main/resources/job.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/config/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4088586">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/topsy/beans/info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17826825">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/jobs/JobB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/jobs/JobA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven/repository/rome/rome/1.0/rome-1.0.jar!/com/sun/syndication/io/XmlReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar!/javax/net/ssl/HttpsURLConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2857143">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/jobs/SearchJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="181" column="29" selection-start-line="181" selection-start-column="29" selection-end-line="181" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven/repository/org/apache/httpcomponents/httpclient/4.3.5/httpclient-4.3.5.jar!/org/apache/http/impl/client/DefaultHttpClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23809524">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/topsy/beans/Parameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37719297">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/commons/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/commons/SSLClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/jobs/JobC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/webapp/admin/css/less/app.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/src/main/java/com/hateck/spider/commons/HttpClientUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/src/main/resources/init.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27684563">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Information.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35836178">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/webapp/admin/js/angular/ngStorage.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/interceptors/AdminInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18088737">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/webapp/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/webapp/admin/js/directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/webapp/admin/js/filters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/webapp/admin/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/webapp/admin/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="295" column="42" selection-start-line="295" selection-start-column="42" selection-end-line="295" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/models/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35836178">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven/repository/com/jfinal/jfinal/2.0/jfinal-2.0.jar!/com/jfinal/core/Controller.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="18.225256">
+          <caret line="433" column="17" selection-start-line="433" selection-start-column="17" selection-end-line="433" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/webapp/admin/tpl/page_signin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/webapp/admin/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="497" column="49" selection-start-line="497" selection-start-column="49" selection-end-line="497" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/resources/init.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/src/main/java/com/hateck/platform/controllers/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8501441">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>platform (1):war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7.51</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29425287" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:druid:1.0.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>舆情监控分析大数据系统</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="client/css/bootstrap.min.css" rel="stylesheet">
+    <link href="client/css/style.css" rel="stylesheet">
+    <style type="text/css">
+        #rotate {
+            position: relative;
+        }
+
+        #rotate a {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            font-weight: bold;
+            padding: 3px 6px;
+        }
+
+        #rotate a:hover {
+            border: 0px solid #eee;
+            border-radius: 5px;
+        }
+
+        .btn.active.focus,
+        .btn.focus {
+            outline: none;
+        }
+    </style>
+
+</head>
+<body>
+
+<div class="header">
+    <p class="center-block title_bg font_color radius"><strong>舆情监控大数据分析</strong></p>
+</div>
+<div class="content radius shadow padding_bottom">
+    <div class="container-fluid">
+        <div class="row">
+            <!-- left -->
+            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                <div class="lefttop shadow1">
+                    <p class="text-center"><strong>热点事件</strong></p>
+                    <!-- 文字漂浮 -->
+                    <div class="h_one bd" id="rotate">
+
+                    </div>
+                    <!-- 文字漂浮end -->
+                </div>
+
+                <div class="leftbottom shadow1">
+                    <p align="center"><strong>舆情关键词搜索引擎</strong></p>
+
+                    <div class="bd pa15">
+                        <!-- 搜索 -->
+                        <div class="row">
+                            <!-- search -->
+                            <div class="col-md-6">
+                                <div class="input-group">
+                                    <input type="text" id="keyword" class="form-control" placeholder="Search for...">
+                                </div>
+                            </div>
+                            <!-- Split button -->
+                            <div class="btn-group btnnew">
+                                <button type="button" class="btn btn-default" id="btntext" value="0">热点领域</button>
+                                <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown"
+                                        aria-expanded="true" id="mb">
+                                    <span class="caret"></span>
+                                    <span class="sr-only">Toggle Dropdown</span>
+                                </button>
+                                <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel" id="ullist">
+
+                                </ul>
+                            </div>
+                            <!-- 关注button -->
+                            <button type="button" id="gz" class="btn btn-info active " disabled="disabled"
+                                    data-toggle="buttons">
+                                关注
+                            </button>
+
+                        </div>
+                        <!-- /.row -->
+                        <div class="h_two">
+                            <ul id="search">
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- middle -->
+            <div class="middle">
+                <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                    <div class="middletop shadow1">
+                        <p class="text-center"><strong>热点事件热量流量图</strong></p>
+
+                        <div class="h_three bd" id="hot">
+
+                        </div>
+                    </div>
+                    <div class="middlebottom shadow1">
+                        <p class="text-center"><strong>全国舆情热点领域分布</strong></p>
+
+                        <div class="h_four bd" id="radar">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- right -->
+            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                <div class="righttop shadow1">
+                    <p class="text-center"><strong>数据采集服务器节点</strong></p>
+
+                    <div class="h_five bd" id="server">
+
+                    </div>
+                </div>
+                <div class="rightbottom shadow1">
+                    <p class="text-center"><strong>24小时数据采集流量</strong></p>
+
+                    <div class="h_six bd" id="scount">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="client/js/jquery-1.11.1.min.js"></script>
+<script src="client/js/bootstrap.min.js"></script>
+<script src="client/js/echarts.js"></script>
+
+<script src="client/js/data.js"></script>
+<script>
+    $(function () {
+        $('#gz').on('click', function () {
+            console.log($(this).attr("class").indexOf("active"));
+
+            if ($(this).attr("class").indexOf("active") > 0) {//已关注
+                $(this).removeClass("btn-info");
+                $(this).addClass("btn-primary active");
+                alert($("#keyword").val() + ":" + $("#btntext").text());
+                //提交关键字 领域
+            } else {
+                $(this).removeClass("btn-primary");
+               // $(this).removeClass("active");
+                $(this).addClass("btn-info active");
+                $("#keyword").val("");
+                $("#btntext").text("热点领域");
+                $("#btntext").attr("value",0);
+                $('#gz').attr("disabled","disabled");
+            }
+
+            console.log($(this).attr("class"));
+        });
+
+        $('#keyword').blur(function(){
+            if($(this).val().length>0){
+                if($("#btntext").text()=="热点领域"){
+                    $('#btntext').focus();
+                   // alert("选择领域");
+                }else{
+                    $('#gz').removeAttr("disabled");
+                }
+            }
+        });
+
+        //$('#mb').on('hidden.bs.dropdown', function () {
+        // alert("ok");
+        //});
+        $('#mb').on('click', function () {
+            $('#ullist li').mouseover(function () {
+                $('#ullist li').css("cursor", "pointer");
+            });
+            $('#ullist li').on('click', function () {
+                console.log($(this).attr("id"));
+
+                $("#btntext").text($(this).text());
+                $("#btntext").attr("value",$(this).attr("vid"));
+
+                if($('#keyword').val().length>0){
+                    $('#gz').removeAttr("disabled");
+                }else{
+                    $('#keyword').focus();
+                    //alert("输入关键字");
+                }
+            });
+        });
+    });
+</script>
+</body>
+</html>
